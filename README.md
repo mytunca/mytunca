@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is **Muhammet Yunus**. 
+
+I'm a Turkish medical doctor 👨‍⚕️ who is totally addicted to programming 👨‍💻 for last 3+ years. Born and raised in Istanbul 🇹🇷. 
+- 🔭 I work in a public health facility in city called Rize. Besides I'm a PhD student in public health.
+- 🌲 I have a pretty good experience with **Google Apps Script, JavaScript**.
+- 🌱 I’m currently learning **Python, Django, React**.
+- 📫 [**Mail**](mailto:muhammedytunca@gmail.com) [**Twitter**](https://twitter.com/DrYunusTunca)
+
 <!--
 **mytunca/mytunca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
