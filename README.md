@@ -7,7 +7,7 @@ I'm a Turkish medical doctor 👨‍⚕️ who is totally addicted to programmin
 - 🎓 Graduated from Istanbul University Cerrahpaşa Faculty of Medicine in 2013. 
 - 🔭 I work in a public health facility in city called Rize. Besides I'm a PhD student in public health.
 - 🌲 I have a pretty good experience with **Google Apps Script, JavaScript**.
-- 🌱 I'm currently learning **Python, Django, React**.
+- 🌱 I'm currently learning **Python (from CS50), Django, React**.
 - 📝 I've been developing a free shift list creation website. It's available on [**nobetevi.com**](https://nobetevi.com). 
 I intend to refactor it with React and make it open-source here.
 - 📫 You can reach me via [**Mail**](mailto:muhammedytunca@gmail.com)
