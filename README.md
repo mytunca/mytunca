@@ -10,9 +10,10 @@ I'm a Turkish medical doctor 👨‍⚕️ who is totally addicted to programmin
 - 🌱 I'm currently learning **Python (from CS50), Django, React**.
 - 📝 I've been developing a free shift list creation website. It's available on [**nobetevi.com**](https://nobetevi.com). 
 I intend to refactor it with React and make it open-source here.
-- 📫 You can reach me via [**Mail**](mailto:muhammedytunca@gmail.com)
+- 📫 You can reach me via [**Email**](mailto:muhammedytunca@gmail.com)
 [**Twitter**](https://twitter.com/DrYunusTunca)
 [**LinkedIn**](https://linkedin.com/in/mytunca)
+[**Upwork**](https://www.upwork.com/freelancers/~01a2378543cedb49ff)
 
 <!--
 **mytunca/mytunca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
