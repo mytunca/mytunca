@@ -5,7 +5,7 @@ My name is **Muhammet Yunus**.
 I'm a Turkish medical doctor 👨‍⚕️ who is totally addicted to programming 👨‍💻 for last 3+ years. 
 - 🍼  Born and raised in Istanbul 🇹🇷.
 - 🎓 Graduated from Istanbul University Cerrahpaşa Faculty of Medicine in 2013. 
-- 🔭 I work in a public health facility in city called Rize. Besides I'm a PhD student in public health.
+- 🔭 I work in a public health facility in a city called Rize. Besides I'm a PhD student in public health.
 - 🌲 I have a pretty good experience with **Google Apps Script, JavaScript**.
 - 🌱 I'm currently learning **Python (from CS50), Django, React**.
 - 📝 I've been developing a free shift list creation website. It's available on [**nobetevi.com**](https://nobetevi.com). 
