@@ -2,7 +2,7 @@
 
 My name is **Muhammet Yunus**. 
 
-I'm a Turkish medical doctor 👨‍⚕️ who is totally addicted to programming 👨‍💻 for last 3+ years. 
+I'm a Turkish medical doctor 👨‍⚕️ who is totally addicted to programming 👨‍💻 for last 4+ years. 
 - 🍼  Born and raised in Istanbul 🇹🇷.
 - 🎓 Graduated from Istanbul University Cerrahpaşa Faculty of Medicine in 2013. 
 - 🔭 I work in a public health facility in a city called Rize. Besides I'm a PhD student in public health.
